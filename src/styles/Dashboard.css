@@ -39,9 +39,9 @@ body {
   grid-template-columns: 260px minmax(0, 1fr);
 }
 
-/* ─────────────────────────────────
+/*  
    사이드바
-   ───────────────────────────────── */
+     */
 
 .dashboard-sidebar {
   background: linear-gradient(180deg, #0b2440, #0e2a47 55%, #14385d);
@@ -152,9 +152,9 @@ body {
   margin: 4px 2px 0;
 }
 
-/* ─────────────────────────────────
+/*  
    메인 컨텐츠 영역
-   ───────────────────────────────── */
+     */
 
 .dashboard-content {
   padding: 22px 24px 32px;
@@ -206,9 +206,9 @@ body {
   background: linear-gradient(135deg, #e0f7ff, #c1eff9);
 }
 
-/* ─────────────────────────────────
+/*  
    상단 요약 스트립 (Summary)
-   ───────────────────────────────── */
+     */
 
 .summary-strip {
   margin-top: 20px;
@@ -238,9 +238,9 @@ body {
   color: var(--accent-strong);
 }
 
-/* ─────────────────────────────────
+/*  
    메인 그리드 레이아웃
-   ───────────────────────────────── */
+     */
 
 .page-main-grid {
   margin-top: 22px;
@@ -289,9 +289,9 @@ body {
   color: #4b5fbb;
 }
 
-/* ─────────────────────────────────
+/*  
    Map Panel
-   ───────────────────────────────── */
+     */
 
 .map-placeholder {
   border-radius: var(--radius-md);
@@ -375,9 +375,7 @@ body {
   font-weight: 500;
 }
 
-/* ─────────────────────────────────
-   Text Log Panel
-   ───────────────────────────────── */
+/* Text Log Panel */
 
 .log-list {
   max-height: 350px;
@@ -425,9 +423,7 @@ body {
   color: #4b5563;
 }
 
-/* ─────────────────────────────────
-   Drone Panel
-   ───────────────────────────────── */
+/* Drone Panel */
 
 .drone-list {
   display: flex;
@@ -548,9 +544,7 @@ body {
   background: #e3f2ff;
 }
 
-/* ─────────────────────────────────
-   Mine Panel
-   ───────────────────────────────── */
+/* Mine Panel */
 
 .mine-summary-text {
   margin: 4px 0 10px;
@@ -617,9 +611,7 @@ body {
   color: var(--text-muted);
 }
 
-/* ─────────────────────────────────
-   반응형 (간단)
-   ───────────────────────────────── */
+/* 반응형 */
 
 @media (max-width: 960px) {
   .dashboard-root {
@@ -772,9 +764,9 @@ body {
   font-size: 0.76rem;
 }
 
-/* ─────────────────────────────────
+/*  
    Drone detail panel
-   ───────────────────────────────── */
+     */
 
 .drone-detail-panel {
   margin-top: 12px;
