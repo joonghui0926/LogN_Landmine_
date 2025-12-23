@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LogN_Landmine_/static/css/main.147120e6.css",
+    "main.js": "/LogN_Landmine_/static/js/main.f8be4684.js",
+    "static/media/flying.gif": "/LogN_Landmine_/static/media/flying.eaa958e5c4ad1d9d073b.gif",
+    "static/media/reduced3.mp4": "/LogN_Landmine_/static/media/reduced3.eb24e5dee94f484c7cee.mp4",
+    "static/media/marking.gif": "/LogN_Landmine_/static/media/marking.96f6a019ee2210f6646e.gif",
+    "static/media/a1.png": "/LogN_Landmine_/static/media/a1.405b22ac5f5b80492bb4.png",
+    "static/media/l4.jpg": "/LogN_Landmine_/static/media/l4.9f6884769a311086150d.jpg",
+    "static/media/logo.png": "/LogN_Landmine_/static/media/logo.0707448f44fb67f0ea05.png",
+    "static/media/l2.jpg": "/LogN_Landmine_/static/media/l2.f1820b16553dd7947288.jpg",
+    "static/media/UNODA.png": "/LogN_Landmine_/static/media/UNODA.1cabc75fd771119334b8.png",
+    "static/media/f4.png": "/LogN_Landmine_/static/media/f4.d1d0b8b6c9fe46734ead.png",
+    "static/media/drone_illust.png": "/LogN_Landmine_/static/media/drone_illust.dd7dc5d065184afa991c.png",
+    "static/media/l3.jpg": "/LogN_Landmine_/static/media/l3.f3334499918b2d0a1a50.jpg",
+    "index.html": "/LogN_Landmine_/index.html",
+    "main.147120e6.css.map": "/LogN_Landmine_/static/css/main.147120e6.css.map",
+    "main.f8be4684.js.map": "/LogN_Landmine_/static/js/main.f8be4684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147120e6.css",
+    "static/js/main.f8be4684.js"
+  ]
+}
